@@ -52,6 +52,7 @@ I build **production-style AI applications**, from multi-agent LLM systems and R
 | Project | What it does | Stack |
 |---|---|---|
 | 💼 [**CRM Sales Management System**](https://github.com/Anup2000-git/CRM) | Microservices CRM (lead → customer → deal → revenue) with RBAC, a real-time pipeline, dashboards and an AI service | Node.js · React · MongoDB · Redis · Socket.IO · Docker |
+| 🥗 [**Nutrify — AI Nutrition Coach**](https://github.com/Anup2000-git/Nutrify) | Mobile app: snap a meal photo for calorie and macro estimates from GPT-4o vision, with a personalised AI coach for Indian diets | React Native · Expo · Supabase · Azure OpenAI |
 | 🧬 [**Liver Damage Detection**](https://github.com/Anup2000-git/liver-damage-detection-ai) | Classifies histopathology images (HCC / CC / Normal) after benchmarking DenseNet, ResNet and VGG | TensorFlow · Transfer Learning · Streamlit |
 | 🦺 [**Workplace Safety Compliance**](https://github.com/Anup2000-git/ai-workplace-safety-compliance) | Real-time PPE and unsafe-behaviour detection from video | YOLOv11 · Pose Estimation · Roboflow · Streamlit |
 | 📚 [**Edu-Bot**](https://github.com/Anup2000-git/edu-bot-ai-learning-assistant) | RAG tutor for Class X Science that answers from the textbook, with images | FAISS · Sentence-Transformers · Gemini · Streamlit |
@@ -63,7 +64,6 @@ I build **production-style AI applications**, from multi-agent LLM systems and R
 - **Agentic NL-to-SQL Analytics Platform**: multi-agent system (supervisor, forecasting, comparison and anomaly agents) that answers natural-language questions over a commodity-price database, with forecasting, alerts, voice and WhatsApp access. *LangGraph · Azure OpenAI · PostgreSQL · Redis · FastAPI · React*
 - **Agentic RAG Assistant**: LangGraph agent with intent classification, conversation memory, a web crawler ingestion pipeline, Qdrant vector search, voice input and an admin dashboard. *LangGraph · Qdrant · BGE Embeddings · Redis · Docker*
 - **DataTalk**: document-intelligence platform for querying PDF, DOCX, PPTX and Excel files with RAG. *FastAPI · Azure OpenAI · Docker*
-- **Nutrify** *(in progress)*: AI nutrition-tracking app for Indian diets with photo-based food logging and a personalised AI coach. *React Native · Expo · Supabase · GPT-4o*
 
 ---
 
